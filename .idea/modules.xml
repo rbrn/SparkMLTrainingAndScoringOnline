@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLHouses/SparkMLHouses.iml" filepath="$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLHouses/SparkMLHouses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLLoadModelFromFiskAndOnlineScoring/SparkMLScoringOnline.iml" filepath="$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLLoadModelFromFiskAndOnlineScoring/SparkMLScoringOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLOnlineTrainingAndScoringRDD/SparkMLTrainingAndScoringOnline.iml" filepath="$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLOnlineTrainingAndScoringRDD/SparkMLTrainingAndScoringOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLOfflineTrainingSaveModelOnDisk/SparkMLTrainingOffline.iml" filepath="$PROJECT_DIR$/../streaming/AnalysisTier/SparkMLOfflineTrainingSaveModelOnDisk/SparkMLTrainingOffline.iml" />
+    </modules>
+  </component>
+</project>
